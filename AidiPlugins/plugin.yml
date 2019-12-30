@@ -1,0 +1,11 @@
+name: AidiPlugins
+version: 0.0.1
+author: Aidifly
+main: en.aidifly.aidiplugins.main
+commands:
+  lobby:
+    description: Type this command to go to the lobby.
+    permission: lobby.use
+  broadcast:
+    description: Type this command to make a special announcement on all servers.
+    permission: br.use
